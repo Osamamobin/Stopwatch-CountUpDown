@@ -1,6 +1,6 @@
-# ⏱️ Stopwatch Timer – C# WinForms Project
+# ⏱️ Stopwatch: CountUpDown – C# WinForms Project
 
-A simple and elegant **Stopwatch Timer** application built using **C# and Windows Forms**. This project provides core stopwatch functionalities with a modern UI and theme customization.
+A simple and elegant **Stopwatch: CountUpDown** application built using **C# and Windows Forms**. This project provides core stopwatch functionalities with a modern UI and theme customization.
 
 ---
 
@@ -38,5 +38,5 @@ A simple and elegant **Stopwatch Timer** application built using **C# and Window
 ---
 
 ## 👨‍💻 Author
-**Abtahi Islam** – *CSE Student, American International University – Bangladesh*  
-📧 *abtahibinislam2018@gmail.com*
+**Osama Mobin Zuhar** – *CSE Student, American International University – Bangladesh*  
+📧 *osamamobin25771@gmail.com*
